@@ -1,0 +1,9 @@
+h3{
+    color: blue;font-size: 3rem; background-color: black; 
+}
+p{
+    color: red; font-size: 2.5rem;display: inline; background-color: black;
+}
+img{
+    display: block;
+}
